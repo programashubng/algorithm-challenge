@@ -1,7 +1,7 @@
 # Week 1 - Find the largest number in an array
 Solve this without using any inbuilt array methods.
 
-![Week 1 Challenge](https://github.com/Cradoe/algorithm-challenge/blob/8b8734f19a9716b31afdfaa18638541e87012a50/week%201.jpg) 
+![Week 1 Challenge](https://github.com/programashubng/algorithm-challenge/blob/171692028b9ba46b2804db1cb5c9f3ae86df2a8c/week%201.jpg) 
 
 ## How to participate
 - Fork the project.
